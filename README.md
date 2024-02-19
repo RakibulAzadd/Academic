@@ -1,12 +1,9 @@
-# Academic
+## Leetcode
  
-[Tutorial](https://www.youtube.com/watch?v=DgXR2OWQnLc&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P&index=1&ab_channel=WilliamFiset)
+[Blind Leetcode Question](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions)
 
 
-## Full Tutorial
 
-[On Youtube](https://youtube.com/playlist?list=PL2WFgdVk-usEEEPk5dfgg_fvUeGDM8NWf)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
+## Number Theory
+1. [Topic](https://leetcode.com/discuss/study-guide/3687666/All-Number-Theory-Topics-or-Basic-to-Advance-Lavel)
+2. [Leetcode List ](https://leetcode.com/tag/number-theory)
